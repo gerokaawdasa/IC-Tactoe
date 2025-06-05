@@ -4,7 +4,7 @@ TacToe on ICP is a simple web-based Tic Tac Toe game built on the Internet Compu
 
 ![Screenshot](./docs/png/image1.jpg)
 
-![Screenshot](./docs/png/image1.jpg)
+![Screenshot](./docs/png/image2.jpg)
 
 ## 🚀 Features
 
