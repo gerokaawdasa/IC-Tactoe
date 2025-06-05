@@ -43,6 +43,7 @@ dfx deploy
 ```
 
 ## 📁 Project Structure
+```
 ic-tactoe/
 ├── backend/
 │   └── main.mo           # Motoko actor logic
@@ -55,6 +56,7 @@ ic-tactoe/
 ├── dfx.json              # DFX configuration
 ├── package.json
 └── README.md
+```
 
 ## 📄 License
 
