@@ -2,7 +2,9 @@
 
 TacToe on ICP is a simple web-based Tic Tac Toe game built on the Internet Computer (ICP) using Motoko for the backend and React for the frontend. This project demonstrates smart contract integration with a modern user interface.
 
-![Screenshot](./screenshot.png)
+![Screenshot](./docs/png/image1.jpg)
+
+![Screenshot](./docs/png/image1.jpg)
 
 ## 🚀 Features
 
